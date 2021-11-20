@@ -3,11 +3,11 @@ title: Test Project
 sidebar: toc
 ---
 
-- [Home](/webflow-util)
-- [What's New?](/webflow-util/whats-new)
-- [Technical Notes](/webflow-util/tech)
-- [Databinding](/webflow-util/databinding)
-- [Datasources](/webflow-util/datasources)
+- [Home](/githubpages)
+- [What's New?](/githubpages/whats-new)
+- [Technical Notes](/githubpages/tech)
+- [Databinding](/githubpages/databinding)
+- [Datasources](/githubpages/datasources)
 
 # What is WFU?
 
