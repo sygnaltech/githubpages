@@ -1,4 +1,4 @@
 remote-theme: chrisrhymes/bulma-clean-theme
 permalink: pretty
-sidebar: toc
 fixed_navbar: top
+menubar: menubar
