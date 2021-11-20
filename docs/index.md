@@ -1,9 +1,10 @@
 ---
 title: Test Project
-sidebar: toc
+subtitle: Demo page with tabs
+layout: page
 ---
 
-test1
+test11
 
 - [Home](/githubpages)
 - [What's New?](/githubpages/whats-new)
