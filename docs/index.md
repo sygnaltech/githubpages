@@ -1,9 +1,9 @@
 ---
-title: Test Project
-subtitle: Demo page with tabs
 layout: page
+title: Webflow Utils
+subtitle: Make your webflow site awesome
 menubar: menu
-hero_height: is-medium
+hero_height: is-small
 toc: true
 ---
 

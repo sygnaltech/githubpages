@@ -1,16 +1,16 @@
 
-- label: Example Menu
+- label: Contents
   items:
     - name: Home
       link: /
-    - name: Pages
+    - name: What's New
+      link: /whats-new/
+    - name: Features
       link: #
       items:
-        - name: Page With Sidebar 
-          link: /page-1/
-        - name: Page Without Sidebar
-          link: /page-2/
-        - name: Page With Menubar
-          link: /page-3/
-    - name: Blog
-      link: /blog/
+        - name: Databinding
+          link: /databinding/
+        - name: Datasources
+          link: /datasources/
+    - name: Technical Notes
+      link: /tech/

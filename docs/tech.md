@@ -1,6 +1,10 @@
 ---
+layout: page
 title: Technical Notes
-sidebar: toc
+subtitle: Make your webflow site awesome
+menubar: menu
+hero_height: is-small
+toc: true
 ---
 
 - [Home](/webflow-util)
