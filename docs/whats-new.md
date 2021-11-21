@@ -7,8 +7,6 @@ hero_height: is-small
 toc: true
 ---
 
-- [Home](/webflow-util)
-
 
 # What's New?
 

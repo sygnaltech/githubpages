@@ -7,8 +7,6 @@ hero_height: is-small
 toc: true
 ---
 
-- [Home](/webflow-util)
-
 # Collection List Data Sources
 
 WFU makes your data more programmatically accessible by creating **data sources** and a **database** for your scripts to use.

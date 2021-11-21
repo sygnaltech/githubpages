@@ -1,19 +1,11 @@
 ---
 layout: page
-title: Webflow Utils
+title: Webflow Utils 3.0
 subtitle: Make your webflow site awesome
 menubar: menu
 hero_height: is-small
-toc: true
+toc: false
 ---
-
-test1
-
-- [Home](/githubpages)
-- [What's New?](/githubpages/whats-new)
-- [Technical Notes](/githubpages/tech)
-- [Databinding](/githubpages/databinding)
-- [Datasources](/githubpages/datasources)
 
 # What is WFU?
 

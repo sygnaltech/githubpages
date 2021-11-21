@@ -7,8 +7,6 @@ hero_height: is-small
 toc: true
 ---
 
-- [Home](/webflow-util)
-
 # Data-binding Form INPUTs & SELECTs
 
 Data-binding is the original feature that WFU was built around. It developed out of a need to populate Form SELECTs with dynamic data from Webflow Collection Lists.
