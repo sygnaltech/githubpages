@@ -1,4 +1,7 @@
 remote-theme: chrisrhymes/bulma-clean-theme
+baseurl: "/my-project"
+plugins:
+- github-pages
 permalink: pretty
 fixed_navbar: top
 layout: page

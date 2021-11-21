@@ -2,9 +2,10 @@
 title: Test Project
 subtitle: Demo page with tabs
 layout: page
+toc: true
 ---
 
-test112
+test1121
 
 - [Home](/githubpages)
 - [What's New?](/githubpages/whats-new)
