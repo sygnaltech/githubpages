@@ -5,6 +5,6 @@ fixed_navbar: top
 layout: page
 show_sidebar: false
 menubar: menu
-plugins:
-- github-pages
+#plugins:
+#- github-pages
 
