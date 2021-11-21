@@ -1,10 +1,10 @@
 remote-theme: chrisrhymes/bulma-clean-theme
 baseurl: "/my-project"
-plugins:
-- github-pages
 permalink: pretty
 fixed_navbar: top
 layout: page
 show_sidebar: false
-menubar: menubar1
+menubar: menu
+plugins:
+- github-pages
 

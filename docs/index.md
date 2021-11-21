@@ -2,10 +2,12 @@
 title: Test Project
 subtitle: Demo page with tabs
 layout: page
+menubar: menu
+hero_height: is-medium
 toc: true
 ---
 
-test1121
+test1121a
 
 - [Home](/githubpages)
 - [What's New?](/githubpages/whats-new)
